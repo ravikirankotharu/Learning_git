@@ -5,4 +5,5 @@ login fix applied
 application login 1
 applictaion logout 2
 new login
+new logout
 
